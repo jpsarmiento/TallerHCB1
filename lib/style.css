@@ -1,0 +1,35 @@
+/* Add your styles here */
+h1 {
+  color : rgb(0, 110, 206);
+  font-weight: bold;
+  text-align: center;
+}
+
+p.mamasitaRosalia{
+  text-align: center;
+}
+
+h2 {
+  color : rgba(221, 181, 0, 0.747);
+  font-weight: lighter;
+}
+
+p{
+  color: white;
+}
+
+div{
+  background-color: black;
+}
+
+body{
+  background-color: black;
+}
+
+li{
+  color: white;
+}
+
+a{
+  color: white;
+}
